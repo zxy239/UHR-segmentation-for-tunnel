@@ -1,7 +1,7 @@
-# As-Damaged Tunnel Digital Model Generation via Panoptic Segmentation of Ultra-High-Resolution Images
+# Maintenance-Oriented Tunnel Digital Model Generation via Panoptic Segmentation of Ultra-High-Resolution Images
 
 This repository contains the official implementation for the paper:  
-**"As-damaged Tunnel Digital Model Generation via Panoptic Segmentation of Ultra-High-Resolution Images."**
+**"Maintenance-Oriented Tunnel Digital Model Generation via Panoptic Segmentation of Ultra-High-Resolution Images."**
 
 ---
 
@@ -74,5 +74,5 @@ This implementation is built upon the **[MMDetection](https://github.com/open-mm
 
 ## 📊 Progress
 
-15th Oct, 2025: Code release
-19th Feb, 2026: Accepted by Computer-Aided Civil and Infrastructure Engineering
+- 15th Oct, 2025: Code release
+- 19th Feb, 2026: Accepted by Computer-Aided Civil and Infrastructure Engineering
